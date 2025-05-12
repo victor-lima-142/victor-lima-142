@@ -2,7 +2,7 @@
 # Victor Reboredo
 **Software Engineer**
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHuMTUqlmaSIA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710950696352?e=1743033600&v=beta&t=7SSFrCuEFcnzGikSIbmjLAoiFBItNXJ_-meSJR9lc4g" alt="Victor Reboredo image" style="border-radius: 50% !important; width: 150px; height: 150px;" />
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQHuMTUqlmaSIA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710950696352?e=1752710400&v=beta&t=587a7631scfThWR6cSWvSHQhUb5L6YAOKZE05PG4r2U" alt="Victor Reboredo image" style="border-radius: 50% !important; width: 150px; height: 150px;" />
   
 ## Contact
 
