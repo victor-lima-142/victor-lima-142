@@ -24,7 +24,7 @@ Motivated and results-driven Software Engineer with expertise in web development
 
 ## Technical Skills
 
--  **Programming Languages & Frameworks**: TypeScript, Java, ReactJS, NextJS, Python
+-  **Programming Languages & Frameworks**: TypeScript (NestJS, NextJS, React), Golang (gorm, gin, mux, wire)
 
 -  **Databases:** MySQL, SQL Server and Postgres
 
@@ -48,7 +48,7 @@ Motivated and results-driven Software Engineer with expertise in web development
 
 In the technology sector, I work as a mid-level developer, providing support for various enterprise systems (commonly known as "off-the-shelf software," such as JD Edwards, Oracle Cloud ERP, and BPM tools). Additionally, I develop in-house solutions using modern technologies like Golang and TypeScript to optimize and create software tailored to the technological needs of the company.
 
-- Develop and support enterprise systems, including JD Edwards and Oracle Cloud ERP, utilizing modern technologies like Golang and TypeScript.
+- I developed critical solutions in Golang and TypeScript for corporate systems (JDE, Oracle), focusing on optimized performance and security to ensure the resilience of the company's critical operations. I actively collaborated in code reviews, proposing architectural improvements and best practices that resulted in scalability, reliability, and availability.
 
 - Create in-house solutions to meet company-specific technological needs, enhancing productivity and software efficiency.
 
