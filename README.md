@@ -18,7 +18,7 @@
 
 ## Summary
 
-Motivated and results-driven Software Engineer with expertise in web development technologies, including TypeScript, ReactJS, NextJS, and Java. Skilled in developing scalable, user-friendly applications and optimizing performance for high-impact solutions. Proficient in Agile methodologies, API integration, and UI/UX design. Advanced English proficiency and a commitment to continuous learning. Seeking junior to mid-level software engineering roles in dynamic, fast-paced environments.
+Motivated and results-driven Software Engineer with expertise in web development technologies, including TypeScript, ReactJS, NextJS, and Java. Skilled in developing scalable, user-friendly applications and optimizing performance for high-impact solutions. Proficient in Agile methodologies, API integration, and UI/UX design. Advanced English proficiency and a commitment to continuous learning. Seeking senior software engineering roles in dynamic, fast-paced environments.
 
 ---
 
