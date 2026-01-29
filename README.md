@@ -111,6 +111,15 @@ Tenho experiência prática em **sistemas de missão crítica**, integrações c
 
 <div id="en-us" />
 
+---
+
+<p align="right">
+  <a href="#pt-br">🇧🇷 Português</a> | 
+  <a href="#en-us">🇺🇸 English</a>
+</p>
+
+---
+
 ## 🇺🇸 EN-US
 
 # 👋 Hi, I’m Victor Reboredo
