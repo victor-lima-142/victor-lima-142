@@ -105,6 +105,7 @@ Tenho experiência prática em **sistemas de missão crítica**, integrações c
 
 ## 📫 Contato
 
+- 🌐 Website: https://reboredobit.dev
 - 📧 Email: victoreboredo.dev@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/victorreboredo-b0874b1a4  
 - 📍 Rio de Janeiro, Brasil
@@ -207,6 +208,7 @@ I have hands-on experience with **mission-critical systems**, complex integratio
 
 ## 📫 Contact
 
+- 🌐 Website: https://reboredobit.dev
 - 📧 Email: victoreboredo.dev@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/victorreboredo-b0874b1a4  
 - 📍 Location: Rio de Janeiro, Brazil
