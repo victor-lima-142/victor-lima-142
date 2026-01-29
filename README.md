@@ -1,11 +1,13 @@
+<div id="pt-br" />
+
+---
+
 <p align="right">
   <a href="#pt-br">🇧🇷 Português</a> | 
   <a href="#en-us">🇺🇸 English</a>
 </p>
 
 ---
-
-<div id="pt-br" />
 
 ## 🇧🇷 PT-BR
 
